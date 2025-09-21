@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+/* Shared styles for both buttons */
+button {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Unique style for the first button */
+.first-btn {
+  background-color: black;
+  color: white;
+}
+
+/* Unique style for the second button */
+.second-btn {
+  background-color: yellow;
+}
